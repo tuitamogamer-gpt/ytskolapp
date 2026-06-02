@@ -1,0 +1,23 @@
+{
+  "name": "yt-skola-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YouTube Škola Studio — web verzija (alati za rast YouTube kanala) deployabilna na Vercel",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.18",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3",
+    "@types/node": "20.16.15",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1"
+  }
+}

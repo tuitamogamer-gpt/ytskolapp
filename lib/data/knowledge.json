@@ -1,0 +1,570 @@
+{
+  "lessons": [
+    {
+      "n": 1,
+      "title": "Pronađi nišu i poštuj 4F formulu",
+      "topic": "nisa",
+      "summary": "Lekcija objašnjava zašto mali, fokusirani kanali zarađuju mnogo više od velikih tematski rasijanih kanala. Ključ je odabir jedne niše, to jest jednog konkretnog problema (boli) ciljne skupine, i primjena 4F formule: Fokus kanala na jednu temu, Fokus videa na vrijedne informacije, Fokus na rješavanje tog problema i Fala (zahvalnost kupcima).",
+      "key_points": [
+        "Fokusiraj cijeli kanal na samo jednu temu, tj. jedan problem, jednu 'bol' ciljne skupine, umjesto da snimaš tematski rasijano (prvo F).",
+        "Unutar svakog videa dijeli izuzetno korisne i pojednostavljene informacije; test vrijednosti je da li bi neko platio za taj sadržaj (drugo F).",
+        "Postavi sebi dva pitanja prije izrade sadržaja: koji problem ciljnu skupinu najviše boli i za koje rješenje su spremni platiti.",
+        "Usmjeri sadržaj na to KAKO riješiti problem, a ne na objašnjavanje zašto nešto funkcioniše; treće F (Fokus na rješavanje jednog problema).",
+        "Zahvali se kupcima, makar emailom zahvale uz ponudu besplatnog savjeta; to gradi povjerenje i preporuke (četvrto F, Fala).",
+        "Ne bavi se YouTube SEO-om ni guranjem videa za ključne riječi u pretrazi, to je zamka koju treba izbjegavati.",
+        "Što je ciljna skupina uža i problem konkretniji, to lakše prodaješ proizvod po višoj cijeni (primjer: program za 47 eura kupilo preko 5.000 od 7.000 subscribera).",
+        "Zaboravi ideju o slavi i broju subscribera; postani poznat po videima koji rješavaju specifičan problem."
+      ],
+      "frameworks": [
+        "4F"
+      ],
+      "quotes": [
+        "Koji problem moju ciljnu skupinu najviše boli?",
+        "Za koji od svih problema koji njegovu ciljnu skupinu muče, oni su spremni platiti za rješenje?",
+        "Prvo F označava Fokus cijelog YouTube kanala na samo jednu temu."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Najbolji modeli zarade od YouTube-a u 2026.",
+      "topic": "monetizacija",
+      "summary": "Lekcija redom predstavlja sve modele monetizacije YouTube kanala, od najslabijih do najjačih: zarada od pregleda, affiliate, sponzorstva, članstva (Patreon/Skool), merch, crowdfunding, savjetovanje i na kraju digitalni proizvodi i kursevi. Zaključak je da su digitalni proizvodi i kursevi najbolji model jer ne zahtijevaju milione pregleda, zadržavaju gotovo cijeli iznos prodaje i ne zastarijevaju.",
+      "key_points": [
+        "Ne oslanjaj se na zaradu od pregleda; milion pregleda donosi u prosjeku samo oko 1000 eura, što je najgori model monetizacije.",
+        "Digitalni proizvodi (PDF uputstva, zbirke recepata, ček liste) su najisplativiji jer skoro cijeli iznos prodaje (najčešće ispod 50 eura) ostaje tebi i ne zastarijevaju.",
+        "Kursevi su napredna verzija digitalnog proizvoda i najbolji model: sa oko 10.000 pregleda edukacioni kanal može prodati 200 kurseva i zaraditi minimalno 20.000 eura.",
+        "Affiliate marketing nosi samo 3-5% provizije, nestabilan je i pada kako video stari jer proizvodi zastarijevaju; koristi kupon kodove za lakše praćenje prodaje.",
+        "Sponzorstva (npr. VPN reklame) plaćaju 5.000-30.000 eura po reklami prema prosjeku pregleda, ali su nesigurna jer sponzor može svaki čas prekinuti ugovor.",
+        "Kod članstava YouTube uzima u prosjeku pola zarade, pa je bolje graditi zajednicu na Patreonu ili Skoolu; Skool nudi veće i sigurnije mjesečne pretplate.",
+        "Savjetovanje (1-na-1 ili grupno) može donijeti 20-500+ eura po satu, ali nije skalabilno jer dan ima samo 24 sata.",
+        "Najveća prednost digitalnih proizvoda i kurseva: svaki video, bez obzira koliko je star, može donositi prodaje svaki mjesec, pa svaki novi video povećava mjesečnu zaradu.",
+        "Edukatori mogu besplatno prodavati kurseve preko YouTube-a, dok drugi plaćaju oglase na Googleu, Facebooku ili TikToku."
+      ],
+      "frameworks": [],
+      "quotes": [
+        "U prosjeku YouTube zarada od milijon pregleda iznosi samo 1000 eura.",
+        "Nasuprot fizičkih proizvoda, digitalni proizvodi nude mnogo veću zaradu.",
+        "Taj vid monetiziranja YouTube kanala je najbolji model zarade od YouTubea."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Vrhunski thumbnaili i TNT (CTR i curiosity gap)",
+      "topic": "thumbnail",
+      "summary": "Lekcija objašnjava zašto je thumbnail prvi i presudni preduslov da video dobije preglede, jer algoritam širi video tek kad publika klikne i pogleda većinu. Daje konkretan recept za jednostavan, efikasan thumbnail: jedno lice, kratak tekst, visok kontrast i curiosity gap. Naslov i thumbnail zajedno (TNT) određuju hoće li pregledi eksplodirati.",
+      "key_points": [
+        "Pravi jednostavan thumbnail sa jednim licem i kratkim tekstom; jednostavnost čini da veliki tekst prvi upada u oči.",
+        "Koristi maksimalan kontrast između teksta i pozadine (najbolje crno-bijelo) radi čitljivosti i uočljivosti.",
+        "Stvori curiosity gap, neodoljivu radoznalost da publika mora kliknuti da sazna šta je u videu, jer je to najbitniji element.",
+        "Headline na thumbnailu neka ima maksimalno 4 riječi i mora biti konkretan i vezan za temu, ne općenit (npr. 'početničke greške').",
+        "Koristi AI prompt da prvo izlistaš pitanja koja ciljnu skupinu žarko interesuju, pa onda generišeš kratke headline koji bude radoznalost.",
+        "Dodaj sliku svog lica sa jakom facijalnom ekspresijom koja pojačava emociju headlinea; izbjegavaj otvorena usta, rubove i sjene oko lika jer smanjuju CTR.",
+        "Napravi desetak kvalitetnih slika sa raznim emocijama i uglovima uz dobro osvjetljenje (može i mobitelom po danu); nikad ne koristi screenshotove iz videa.",
+        "Video mora ispuniti obećanje iz thumbnaila; algoritam prepoznaje tekst i sadržaj, pa ako se ne poklapaju, ignoriše video (clickbait ne radi).",
+        "Koristi nativni YouTube A/B/C test, ali mijenjaj samo jedan element između varijanti, ne tri potpuno različita thumbnaila.",
+        "Prvo napravi thumbnail i naslov (TNT), pa tek onda piši skriptu; ako ne možeš osmisliti dobar thumbnail, nemoj ni snimati taj video."
+      ],
+      "frameworks": [
+        "TNT"
+      ],
+      "quotes": [
+        "Zbog bitnosti thumbnaila i naslova videa to jest titla ja tu kombinaciju zovem TNT, title and thumbnail.",
+        "Ovaj kanal je eksplodirao kada je počeo praviti jednostavne thumbnaile, pregledi su se udesetostručili.",
+        "Ako ne možeš osmisliti dobar thumbnail nemoj ni snimati taj video."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Kako napisati naslov koji budi radoznalost (ORA okvir)",
+      "topic": "naslovi",
+      "summary": "Lekcija objašnjava zašto trpanje ključnih riječi u naslov više ne funkcioniše i kako naslov koji budi radoznalost i obećava rezultat donosi veći CTR, a time i širu distribuciju kroz algoritam. Uvodi ORA okvir (Obećanje, Radoznalost, Autoritet) i praktična pravila o dužini naslova i co-brandingu. Naglašava da TNT pakovanje (thumbnail + naslov) treba dobiti onoliko vremena koliko je potrebno.",
+      "key_points": [
+        "Naslov drži maksimalno 50 znakova sa razmacima jer mobitel prikazuje samo prvih 50 znakova; što kraći naslov, to bolje.",
+        "Desktop korisnici vide do 70 znakova, pa znakove od 51 do 70 (često u zagradi na kraju) iskoristi za dodatni razlog za klik, najčešće za autoritet.",
+        "Stvaraj jaz radoznalosti (curiosity gap) umjesto suvoparnog naslova sa ključnom riječju, npr. otkrij da početnici prave grešku ali ne reci koju.",
+        "Najjači naslov kombinuje jasan, mjerljiv rezultat sa jazom radoznalosti, npr. 'Izbjegavaj OVE greške i nauči svirati za 10 dana'.",
+        "Ne moraš stavljati ključnu frazu u naslov da bi YouTube znao temu; bolji CTR donosi više pregleda do kraja i tako te i izgura na vrh pretrage.",
+        "Koristi co-branding: posudi vjerodostojnost kroz poznato ime benda ili muzičara (npr. 'svirao za Urban') umjesto nepoznatog imena instruktora.",
+        "Ako se nemaš na čiji brend nasloniti, u zagradu stavi oznaku autoriteta poput '(prof. gitarista)' koja gradi kredibilitet.",
+        "Za inspiraciju idi na uspješne domaće i strane kanale, otvori tab 'Videos', poredaj po popularnosti i analiziraj naslove istog tipa videa (često prva lekcija); kad pregledaš 20-30 kanala vidjećeš obrasce koji se ponavljaju.",
+        "Naslov je beskoristan ako uvod ne valja, jer nećeš zadržati gledaoce, pa naslov i uvod moraju raditi zajedno."
+      ],
+      "frameworks": [
+        "ORA",
+        "TNT"
+      ],
+      "quotes": [
+        "ORA je skraćenica za Obećanje, Radoznalost, Autoritet.",
+        "Na mobitelu se prikazuje samo prvih 50 znakova brojeći i razmake kao znak.",
+        "Što je naslov kraći to bolje."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Prvih 15 sekundi: kako napisati uvod koji zadržava gledaoce",
+      "topic": "skripta",
+      "summary": "Lekcija pokazuje zašto je uvod najodgovorniji dio videa za zadržavanje gledaoca i kako ga popraviti na primjerima tri stvarna videa. Uvodi pet obaveznih elemenata uvoda (ponavljanje, hook, kredibilitet, avatar, obećanje) i tri vrste hookova (vizualni, zvučni, sadržajni), uz objašnjenje retention grafikona. Povezuje sve prelaze u videu jednom niti: jazom radoznalosti.",
+      "key_points": [
+        "Ne čekaj ništa i ne stavljaj uvodnu špicu, pozdrav ni predstavljanje imenom; odmah kreni pričati jer više od pola gledaoca odustane u prvih 6 sekundi.",
+        "Ubaci captionse (titlove) u uvod zbog korisnika koji gledaju bez zvuka na mobitelu.",
+        "Uvod mora sadržati 5 elemenata: ponavljanje (naslova), hook, kredibilitet, avatar i obećanje.",
+        "Najjednostavniji uvod je ponavljanje naslova videa, ali ponavljanje možeš preskočiti ako imaš snažan hook.",
+        "Koristi question hook (pitanje koje budi radoznalost) ili fact hook (impresivnu činjenicu) u prvoj izgovorenoj rečenici.",
+        "Primijeni 'show, don't tell' - pokaži dokaz stručnosti (živi primjer, slika rada, grafikon pregleda/zarade/subscribera) umjesto da samo tvrdiš.",
+        "Daj jasno obećanje: šta će gledaoc postići i za koliko vremena; sve elemente možeš ugurati i u 20 sekundi.",
+        "U prve 3 sekunde uskladi vizualni hook (npr. predmeti se pojavljuju jedan po jedan), zvučni hook (muzika) i sadržajni hook, a poruka mora ostati nedvosmislena.",
+        "Prvih 30 sekundi su kao trailer jer se na TV-u i mobitelu video automatski pušta tih 30 sekundi bez klika; preko 70% gledaoca odustane u tom periodu.",
+        "Svaki prelaz (TNT na uvod, uvod na sadržaj, blok na blok, do CTA) drži istom alatkom: zatvoriš jednu radoznalost i odmah otvoriš novu.",
+        "Snimaj u urednom ambijentu sa dobrim osvjetljenjem jer profesionalan izgled daje gledaocu dodatni razlog da ostane."
+      ],
+      "frameworks": [
+        "TNT",
+        "ORA"
+      ],
+      "quotes": [
+        "U prosjeku više od pola gledaoca odustane u prvih šest sekundi videa, a više od 70% njih odustane od gledanja u prvih 30 sekundi.",
+        "Tih pet elemenata su: ponavljanje, hook, kredibilitet, avatar i obećanje.",
+        "tih 30 sekundi su kao trailer za film i potrebno je dati gledaocu dovoljno razloga da nastavi gledati."
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Storytelling: kako držati pažnju kroz cijeli video",
+      "topic": "skripta",
+      "summary": "Lekcija prenosi tehnike iz Hollywooda, Disneya i serije South Park na pisanje YouTube skripte tako da gledaoc gleda do kraja i prelazi na sljedeći video. Objašnjava podjelu glavnog sadržaja na blokove povezane jazom radoznalosti, pojednostavljivanje radi smanjenja kognitivnog opterećenja, uvođenje protivnika i ličnu priču, sve ilustrovano kompletnim primjerom skripte za fizioterapeuta. Glavna metrika je AVPV (Average Views Per Viewer).",
+      "key_points": [
+        "Glavna metrika kojom YouTube ocjenjuje video je AVPV (Average Views Per Viewer) - koliko videa u prosjeku gledaoc pogleda nakon jednog; cilj je da kanal bude kao Netflix serija.",
+        "Podijeli glavni sadržaj na blokove i u svakom zadovolji prethodnu radoznalost i odmah otvori novu, tako da gledaoc ne preskače da ne propusti dio priče.",
+        "Blokove povezuj riječima 'zbog toga' ili 'ali' (vjesnik), umjesto nizanja 'i onda', 'i onda' - to diže pažnju i smanjuje kognitivno opterećenje (savjet kreatora South Parka).",
+        "Pojednostavljuj: gledaoc se treba osjećati pametnijim dok gleda, ne ti ispasti pametan; čim zakomplikuješ, ostavljaš utisak da ni sam nisi razumio.",
+        "Metafore koristi oprezno, samo ako si siguran da pomažu, jer loša metafora stvara još veću zbunjenost.",
+        "Ubaci protivnika (Disney element) - npr. youtubera koji misli da je YouTube takmičenje stručnosti, ili pogrešno uvjerenje publike koje obaraš.",
+        "Prije pisanja skripte zapiši cilj videa, sve jazove radoznalosti iz thumbnaila i naslova, uvod i definiši protivnika, pa tek onda gradi priču i poentu.",
+        "Razmotri pisanje skripte od kraja (prvo zadnja rečenica/poenta, pa blokovi unatrag), ali thumbnail i naslov uvijek pravi prvi.",
+        "Najjači element je lična priča upakovana kao napeta priča, posebno kroz vlastitu grešku - ranjivost gradi poistovjećivanje, povjerenje i autentičnost.",
+        "Oprezno sa timestampovima u opisu: anonimiziraj ih da ne odaju gdje je rješenje, inače će gledaoci preskočiti; uvod i kraj nikad ne nazivaj 'uvod' i 'kraj'."
+      ],
+      "frameworks": [
+        "TNT"
+      ],
+      "quotes": [
+        "Glavna metrika po kojoj YouTube ocjenjuje određen video a ne YouTube kanal je AVPV to jest Average Views Per Viewer",
+        "Video ne treba opteretit gledaoca, nego se gledaoc treba osjećat pametnijim dok gleda tvoj video.",
+        "umjesto višestrukog ponavljanja „i onda“, „i onda“, „i onda“, treba koristiti „zbog toga“ ili riječ „ali“"
+      ]
+    },
+    {
+      "n": 7,
+      "title": "TNT radionica: kako popraviti naslove i thumbnaile",
+      "topic": "thumbnail",
+      "summary": "Treća TNT (title i thumbnail) radionica na kojoj voditelj uživo popravlja tri prijavljena videa primjenom ORA principa na naslove i pravila kratkoće, kontrasta i emocije na thumbnailima. Kroz primjere (edukatorica mama, njegovatelj u Njemačkoj, profesorica matematike) pokazuje konkretne prepravke i izradu thumbnaila u alatu Thumbmajstor.",
+      "key_points": [
+        "Prvo napravi naslov i thumbnail pa tek onda video, jer presudno utiču na gledanost.",
+        "Drži naslov na maksimalno 50 znakova s razmacima (toliko se vidi na mobitelu); preostalih ~20 do 70 znakova iskoristi za autoritet jer se vide na desktopu.",
+        "Obećanje (O u ORA) je obavezno u naslovu - gledaocu mora biti jasno šta dobija prije nego klikne; radoznalost i autoritet su bonus.",
+        "Radoznalost mora pobuditi bar jedan od dva elementa - ili naslov ili thumbnail - ne moraju oba.",
+        "Na thumbnailu drži maksimalno tri do četiri riječi (headline), s jakim kontrastom (crno-bijelo, žuto na tamno sivo, narandžasto na plavo) i slikom s emocijom.",
+        "Suzi naslov na tačnu ciljnu publiku - npr. 'Mame koje uče djecu OVAKO manje se stresaju' umjesto opšteg 'koje moraš znati o učenju', da se publika osjeti prozvanom.",
+        "Sliku osobe (lice) uvijek pozicioniraj desno na thumbnailu; ako je okrenuta na pogrešnu stranu, okreni je horizontalno.",
+        "Nikad ne koristi font Comic Sans; preporučeni font je Montserrat jer se kroz studije pokazao kao odličan za thumbnaile.",
+        "Akcent boju koristi da podvučeš jednu ključnu riječ, ali izbjegavaj loše parove poput zelene na crvenoj (slično za one koji slabije razlikuju boje).",
+        "Ono što staviš u zagradu na thumbnailu je najčešće višak; bolje napiši profesionalnu oznaku (npr. 'pedagog', 'edukator', 'prof.') nego puno ime i prezime ako autor nije poznat publici.",
+        "Ne radiš naslov zbog algoritma nego zbog ljudi kojima se video prikaže - kada ciljna osoba prepozna sebe, klik je vjerovatniji."
+      ],
+      "frameworks": [
+        "ORA",
+        "TNT"
+      ],
+      "quotes": [
+        "U naslovu se držimo principa, zove se ORA: obećanje, radoznalost, autoritet.",
+        "Prvo pravimo title i thumbnail pa onda tek video, a ne obrnuto, zato što su toliko bitni i utiču na gledanost videa.",
+        "imaju tri pravila za fontove. Nemoj koristiti Comic Sans taj font. Drugo pravilo: nemoj koristiti Comic Sans. I treće pravilo: nemoj koristiti Comic Sans."
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Manje editovanja, više zarade: pojednostavljen stil videa",
+      "topic": "produkcija",
+      "summary": "Lekcija pokazuje novi pristup montaži edukativnih videa: što manje efekata, animacija i B-rollova jer pojednostavljeni videi bolje zadržavaju pažnju i bolje prodaju. Uvodi konkretan, ponovljiv vizuelni stil, oprezno korištenje jump cutova i tehniku 'show, don't tell' za prikaz apstraktnih ideja.",
+      "key_points": [
+        "Smanji efekte na minimum - videi koji izbjegavaju natrpavanje animacijama, B-rollovima i 3D efektima bolje zadržavaju pažnju i bolje prodaju.",
+        "Reži sve suvišno - svaku sporednu rečenicu bez vrijednosti i sve pauze u govoru, da gledaoc na miru prati i pamti savjete.",
+        "Koristi uvijek isti font, iste boje i istu pozadinu kroz sve videe radi prepoznatljivosti.",
+        "Tekst prikazuj lijevo na prepolovljenom ekranu (Z-pravilo), jer tako prirodno čitamo; lice ide desno.",
+        "Koristi indikator koraka da gledaoc zna gdje se nalazi u videu - to vizuelno smanjuje kognitivno opterećenje.",
+        "Kada nešto mora ići preko cijelog ekrana, prikaži sebe u mjehuriću (bubble) da ostaneš povezan s gledaocem kroz neverbalnu komunikaciju.",
+        "Skoro nikad ne koristi B-roll jer kvari autentičnost.",
+        "Jump cut (zoom rez) koristi vrlo rijetko - samo da podvučeš poentu ili pojačaš emociju, i to tek kad rečenica prirodno završi; nikad ne reži usred riječi.",
+        "Ako nisi siguran kako koristiti jump cut, jednostavno ga ne koristi - reži na istoj širini kadra ili ostani u širokom kadru.",
+        "Apstraktne ideje pretvori u nešto fizičko i opipljivo (show, don't tell) - npr. gledaoci kao mlijeko koje se pretvara u sirutku, sir i kajmak.",
+        "Ne moraš prikazati B-roll za konkretne stvari (npr. bananu); vizuelizaciju čuvaj za apstraktne poruke.",
+        "Angažuj video editora umjesto da sam montiraš - skoro nijedan uspješan YouTuber ne edituje sam jer pisanje vrhunske skripte traži vrijeme."
+      ],
+      "frameworks": [],
+      "quotes": [
+        "Da li bi ti manje editovan video zaradio više novca? Vjerujem da je odgovor \"da\".",
+        "To je ono što Englezi misle kada kažu \"show, don't tell\".",
+        "nikada, ali nikada, mu nemoj dopustiti da radi rez usred riječi"
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Sistem od 9 koraka za redovne prodaje preko YouTubea",
+      "topic": "plan",
+      "summary": "Lekcija razlaže sistem od devet koraka (kroz devet najčešćih grešaka) koji YouTube kanal pretvara u izvor redovnih prodaja, umjesto jurnjave za pregledima i viralnošću. Težište je na planiranju mini serijala, ispravnom CTA-u na kraju videa i razumijevanju metrike AVPV te magične brojke od 12 videa do kupovine.",
+      "key_points": [
+        "Ne mjeri uspjeh pregledima nego prodajama - nebitno je da li video ima 100 ili 10.000 pregleda, bitno koliko prodaja donesu.",
+        "U svakom videu u prvi red opisa stavi link s jasnom oznakom kuda vodi (npr. 'Moj kurs gitare:' pa link, 'Radi sa mnom:' pa email, ili 'Upiši se u newsletter:').",
+        "Koristi dvotačku ili emoji koji pokazuje desno, te kvačicu/emoji na početku reda u opisu da privučeš pažnju na link.",
+        "Prati klikove na link u opisu da znaš preko kojeg videa dolaze prodaje, a ne samo ukupan broj kupaca.",
+        "Na kraju videa traži samo jednu radnju, i to tek na kraju (ne usred videa) - analogija s prodavačem auta koji traži potpis prije probne vožnje.",
+        "Nije svaki video prodajni - ne traži kupovinu ili upis u newsletter na svakom videu, pogotovo ne kod prvog kontakta.",
+        "Postavi end screen kartice i sam odluči koji video ide sljedeći umjesto da to prepustiš algoritmu.",
+        "Najbitnija metrika je AVPV (koliko videa gledaoc pogleda nakon jednog videa); prosjek je ispod 2, zato gotovo uvijek pozivaj samo da se pogleda sljedeći određeni video.",
+        "Pravi mini serijale (Netflix-sezona logika), ne samostalne videe - jedan mini serijal je 4 videa gdje svaki rješava jedan veliki problem i poziva na sljedeći.",
+        "Ne juri viralnost - treba ti par stotina ili hiljada pregleda tvoje ciljne skupine, ne milioni iz mase.",
+        "Snimi najmanje 12 videa do prve prodaje: idealno 3 mini serijala po 4 videa (9 kraćih od 10-12 min i 3 duga od pola sata), jer tek nakon ~12 sati sadržaja gledaoc stekne povjerenje (uzorak Daniela Priestleyja).",
+        "Newsletter nudi tek na kraju prva dva mini serijala, a prodaju tek na zadnjem videu trećeg mini serijala.",
+        "Sjedni i popiši sve probleme ciljne skupine i poredaj ih po bitnosti - tada uvijek znaš koja je tema sljedećeg videa."
+      ],
+      "frameworks": [],
+      "quotes": [
+        "Pokazat ću ti sistem od 9 koraka koji će, ako ga ispoštuješ, rezultirati redovnim prodajama.",
+        "Najbitnija metrika po kojoj YouTube vrednuje da li je neki video dobar ili nije jeste AVPV",
+        "Ne treba praviti videe koji su sami za sebe, nego uvijek mini serijale, koji su dio velikog serijala."
+      ]
+    },
+    {
+      "n": 10,
+      "title": "YouTube metrike i lijevak: od entiteta do AVPV-a",
+      "topic": "algoritam",
+      "summary": "Lekcija objašnjava ključne metrike YouTube algoritma poredane kao lijevak: entitet, impresije, CTR, retencija, watch time i najvažniji AVPV (average views per viewer). Pokazuje gdje se svaka metrika nalazi u YouTube Studiju i kako pratiti konverzije (klikove, prijave na newsletter, prodaje) pomoću skraćivača linkova, UTM tagova i Google Analyticsa kako bi se videi povezali u prodajni sistem.",
+      "key_points": [
+        "Prati AVPV (average views per viewer) kao najvažniju metriku; otvori je u YouTube Studiju preko Advanced mode, pod Metrics uključi 'average views per viewer' i namjesti period na maksimalno 90 dana",
+        "Ciljaj AVPV veći od 2 (vrlo dobar 2-4, odličan 4 i više); ako je AVPV 1,6 znači da tek svaki drugi gledalac pređe na sljedeći video, što je loše",
+        "U grafikonu retencije gledaj dvije stvari: koliko gledalaca ostaje nakon prvih 30 sekundi (popravi uvod ako ode pola) i koliko ih ostaje do kraja (popravi kraj); zapiši šta si pričao na mjestima gdje gledaoci odlaze i sljedeći put budi bolji",
+        "Stavi skraćeni link (npr. Bitly) u prvi red opisa videa i dodaj UTM tagove: source=youtube, medium=social, campaign=naziv ili ID videa, da znaš s kojeg videa dolaze pretplatnici i kupci",
+        "U Google Analyticsu namjesti konverzije (prijava na newsletter ili proizvod s cijenom) pa kombinovano s UTM tagovima vidiš koji video dovodi prijave a koji ostvaruje prodaju",
+        "Poveži videe end screen karticama: u videima koji ne prodaju linkaj na onaj koji dovodi newsletter pretplatnike, a iz tih na video koji ostvaruje prodaju, da gledaoca brže pretvoriš u pretplatnika pa u kupca",
+        "Ne brini na početku ZAŠTO neki video konvertuje bolje - bitno je samo da ih povežeš; tako više zaradiš i gledaoci brže dolaze do cilja",
+        "Unutar A/B testova thumbnaila YouTube prikazuje watch time, a ne CTR, jer mu je bitnije koliko ljudi odgleda video do kraja nego koliko ih je samo započelo gledanje",
+        "Ako ne znaš sam namjestiti Google Analytics ili konverzije, pitaj AI alate (ChatGPT, Gemini, Claude) korak po korak ili angažuj jeftinog freelancera"
+      ],
+      "frameworks": [
+        "TNT"
+      ],
+      "quotes": [
+        "Zato, ako ćeš pratiti samo jednu metriku, prati AVPV.",
+        "Ako ti TNT pakovanje nije eksplozivno, onda ti CTR neće valjati.",
+        "Dobar AVPV je veći od 2, vrlo dobar je od 2 do 4, a odličan je 4 ili više."
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Zašto je 2026. godina YouTube-a za edukatore (prvi live)",
+      "topic": "nisa",
+      "summary": "Prvi live session: pregled pada organskog reacha na svim mrežama (Facebook, Instagram, TikTok, LinkedIn, Twitter) naspram YouTube-a koji nudi gotovo neograničen organski reach kroz CCN model (core, casual, new). Objašnjava da YouTube algoritamski preferira edukativni sadržaj, da je balkansko tržište slabo zasićeno i otvoreno, te kroz dugu Q&A sekciju daje savjete o nišama, fokusu na jednu temu, faceless kanalima i AI sadržaju.",
+      "key_points": [
+        "Drži se striktno jedne teme i jednog kanala minimalno 2 godine; jedan jezik, jedna tema, jedan format - nikad dva kanala niti miješanje jezika u videima",
+        "Razumij CCN model: video prvo ide core (redovnim) gledaocima, ako ga odgledaju do kraja ide casual (povremenim), pa tek onda new (srodnoj novoj publici) - probijaš mjehur po mjehur",
+        "Ignoriši broj subskrajbera kao vanity metriku; nije garancija pregleda - kanal s malo subskrajbera može imati milionske preglede i obrnuto",
+        "Nizaj videe u serijale da podstakneš binge gledanje (kao Netflix); AVPV (koliko videa odgleda neko ko je započeo jedan) je najjača algoritamska stavka",
+        "Ne snimaj samo 3-5 videa pa zaključuj da kanal ne radi; spremi se na barem 2 godine snimanja po jedan video sedmično, jer kvalitet kreće tek oko 100. videa kad popraviš jednu stvar po videu",
+        "Za faceless kanale i kad živiš od pregleda NIKAD ne koristi AI glas - YouTube te skida s monetizacije i algoritamski spušta reach AI-generisanom videu i zvuku; modeliraj svoj glas u AI-ju ako baš moraš",
+        "Ako se bojiš kamere znaj da je razlika hoću/neću pred kameru oko 10x u zaradi, jer autoritet i autentičnost grade prodaju; faceless je krajnja opcija",
+        "Biraj nišu po onome što već znaš ili po životnom iskustvu; balkansko tržište je slabo zasićeno (priča o prodavaču cipela u Africi) pa biraj domaće tržište prije engleskog",
+        "Pitaj se hoće li sadržaj vrijediti i za 5 godina i šta tom publikom možeš prodati - edukativni evergreen sadržaj (gitara, kuhanje, SEO) godinama donosi prodaju bez ponovnog rada",
+        "Ne brini o drugim platformama (Instagram, LinkedIn) dok ne postaneš broj jedan na YouTube-u; kao pojedinac savladaj samo long form video na jednom kanalu"
+      ],
+      "frameworks": [
+        "TNT"
+      ],
+      "quotes": [
+        "Subskrajberi su vanity metrika.",
+        "Ja sam zaradio 600.000 EUR-a samo pomoću YouTube-a na SEO školi za 3 godine.",
+        "Ako uspiješ nanizati seriju videosa koje ljudi odgledaju u nizu, ti si pobijedio.",
+        "2026. će biti godina YouTube-a za edukatore."
+      ]
+    },
+    {
+      "n": 12,
+      "title": "Live revizija TNT-a kroz ORA framework (drugi live)",
+      "topic": "thumbnail",
+      "summary": "Drugi live session: uživo revizija thumbnaila i naslova (TNT) tri stvarna kanala - Made in SFRJ, Majstor Đuka i Damir Beatbox - kroz ORA framework (Obećanje, Radoznalost, Autoritet). Naglašava da YouTube nije takmičenje ko je najpametniji nego ko gledaoca čini pametnijim, te da svaki kanal mora imati jasno obećanje i suženu temu. Q&A pokriva nazive fajlova, hashtagove, opis i CCN model.",
+      "key_points": [
+        "Primijeni ORA na svaki thumbnail i naslov: Obećanje (jasan rezultat) je najbitnije, zatim Radoznalost (curiosity gap), pa Autoritet ako se može ugurati",
+        "Najbitnije je Obećanje - gledaocu mora biti jasno šta dobija; kod Majstora Đuke 'izgradnja pomoćnog objekta' nema obećanja jer ne kaže da ćeš naučiti kako to napraviti (bolje: 'izgradi svoj pomoćni objekat za dvije sedmice')",
+        "Sužuj kanal na jednu temu - kanal s 3800 videa i miješanim temama (Turska, minimalizam, TV Dubravac) ima samo 7800 subskrajbera jer YouTube ne zna kome ga prikazati",
+        "Headline na thumbnailu drži kratkim, jasnim i s velikim kontrastom; ne stavljaj dug tekst koji se ne može pročitati na mobitelu i ne prekrivaj njime ono što si napravio",
+        "Okreni naslov ka gledaocu, ne ka sebi: umjesto 'kako Turkinje kuhaju' stavi 'kuhaj ukusno i brzo kao Turkinja uz ove trikove' - gledalac mora osjetiti korist za sebe",
+        "Za reaction kanale (Damir Beatbox) gdje nemaš svoj autoritet, gradi Obećanje i Radoznalost: 'ovo će te naježiti', 'ovo će te rasplakati' je validno obećanje; ne stavljaj 'Ime Reacts' na početak naslova",
+        "Stavljaj poznata lica/brendove na thumbnail reaction videa (kao Messi ili Ronaldo u sportu) jer nova publika ne zna ko si ti pa autoritet vežeš za druge",
+        "Naziv fajla NE utiče na algoritam (mit); naslov videa utiče, a opis ne pomaže rangiranju nego služi korisniku - ako opis ne odgovara videu može biti problematično",
+        "Hashtagovi NE rade; ne treba ni prevod titlova na engleski jer YouTube iz govora već zna o čemu je video",
+        "Razmisli unaprijed o cilju kanala i šta ćeš prodavati: Majstor Đuka bi mogao za 10 eura prodavati nacrt, listu materijala i uputstva s linkovima na svoje videe po koracima gradnje"
+      ],
+      "frameworks": [
+        "TNT",
+        "ORA"
+      ],
+      "quotes": [
+        "O-R-A je skraćeno za dakle radoznalost je li to je R. Onda A autentičnost i O... Obećanje!",
+        "YouTube nije takmičenje, intelektualno takmičenje ko je najpametniji... Nego je takmičenje o tome ako želimo zaraditi da se gledaoc osjeća pametnijim.",
+        "Znači prvo i najbitnije nedostaje! Nema uopšte obećanje."
+      ]
+    }
+  ],
+  "frameworks": {
+    "4F": {
+      "name": "4F okvir (Fokus + Fala)",
+      "summary": "Strateški okvir za izgradnju profitabilnog YouTube kanala: cijeli kanal usmjeri na jednu temu/bol, unutar videa daj izuzetno vrijedne informacije, fokusiraj se na rješavanje tog jednog problema, i izrazi iskrenu zahvalnost publici/kupcima. Mali kanal o 'bolovima u leđima za muškarce 40+' zaradio je 235.000 EUR od 7.000 pretplatnika upravo poštujući 4F, dok je veliki kanal sa milion pretplatnika ali rasutom temom zaradio malo.",
+      "elements": [
+        {
+          "key": "fokus_tema",
+          "desc": "Prvo F = Fokus cijelog kanala na samo JEDNU temu, tj. jedan problem, tj. jednu bol ciljne skupine. Ne rasipaj se na razne teme (tematska rasijanost). Postavi dva pitanja: 'Koji problem moju ciljnu skupinu najviše boli?' i 'Za koje rješenje su spremni platiti?'. Uska niša (npr. bolovi u leđima za muškarce 40+) pobjeđuje široku (kako biti zdrav muškarac)."
+        },
+        {
+          "key": "fokus_vrijednost",
+          "desc": "Drugo F = Fokus UNUTAR videa na dijeljenje vrijednih, izuzetno korisnih informacija. Kompleksne informacije pojednostavi i iznesi lako razumljivo. Test vrijednosti: sadržaj je toliko dobar da bi neko platio za njega — publika će ti to sama reći u komentarima ('lud si što ovo daješ besplatno')."
+        },
+        {
+          "key": "fokus_rjesenje",
+          "desc": "Treće F = Fokus cijelog kanala na RJEŠAVANJE tog jednog problema, te jedne boli. Ciljna grupa ne mora razumjeti ZAŠTO nešto funkcioniše — žele znati samo KAKO da riješe problem. Svaki video nudi konkretan, primjenjiv korak ka rješenju (npr. po jedna vježba po videu)."
+        },
+        {
+          "key": "fala_zahvalnost",
+          "desc": "Četvrto F = Fala (zahvalnost). Iskreno zahvali publici i pogotovo kupcima — nama na Balkanu to teško pada. Pošalji makar email zahvale i ponudi besplatan savjet ako kupcu zatreba (neki šalju i ručno pisana pisma). Ljudi se osjećaju posebno, raste povjerenje i preporuke. Radi to samo ako je od srca, inače se osjeti i nema smisla."
+        }
+      ]
+    },
+    "ORA": {
+      "name": "ORA okvir za naslove",
+      "summary": "ORA je skraćenica za Obećanje, Radoznalost, Autoritet — tri elementa koja svaki vrhunski naslov (title) treba sadržavati. Cilj je maksimizirati CTR umjesto trpanja ključnih riječi (YouTube SEO je prošlost). Primjer evolucije: A) 'Kurs gitare za početnike' (dosadno, ključna riječ) -> B) dodan jaz radoznalosti -> C) dodano obećanje rezultata ('nauči svirati za 10 dana') -> G) dodan autoritet u zagradi za desktop korisnike (co-branding sa poznatim bendom/muzičarem).",
+      "elements": [
+        {
+          "key": "obecanje",
+          "desc": "Obećanje = jasan, konkretan rezultat koji ciljni gledalac priželjkuje, ugrađen u naslov (npr. 'nauči svirati za 10 dana'). Daje gledaocu konkretan razlog za klik i signalizira korist. Najjači element — naslov koji obećava rezultat nadmašuje naslov koji samo budi radoznalost."
+        },
+        {
+          "key": "radoznalost",
+          "desc": "Radoznalost = jaz radoznalosti (curiosity gap). Naslov mora probuditi neodoljivu želju da se sazna šta je u videu (npr. 'šta skoro svi početnici rade pogrešno'). Mora biti vezan za konkretnu temu videa, ne općenit. Ovo je obavezan element svakog naslova i glavni pokretač CTR-a."
+        },
+        {
+          "key": "autoritet",
+          "desc": "Autoritet = vjerodostojnost ugrađena u naslov, najbolje za desktop dio (znakovi 51-70, često u zagradi). Posuđuje povjerenje kroz co-branding (ime poznatog benda/muzičara za kojeg si svirao) ili kvalifikaciju ('(prof. gitarista)' = i profesor i profesionalac). Ako stane uz O i R — to je vrh, ali je opcionalan ('ako može stati')."
+        }
+      ]
+    },
+    "TNT": {
+      "name": "TNT okvir (Title aNd Thumbnail)",
+      "summary": "TNT = Title and Thumbnail, kombinacija naslova i thumbnaila koja odlučuje hoće li pregledi eksplodirati. Uspješni YouTuberi prvo naprave vrhunski thumbnail, pa naslov, pa tek onda pišu skriptu — ako ne mogu osmisliti dobar thumbnail, ne snimaju taj video. YouTube algoritam provjerava da se thumbnail i sadržaj videa poklapaju; ako se ne poklapaju, ignoriše video. Lanac rasta: veći CTR -> više pregleda -> šira publika -> još pregleda -> više kupaca.",
+      "elements": [
+        {
+          "key": "jednostavnost",
+          "desc": "Jednostavnost: thumbnail mora biti vrlo jednostavan da veliki tekst prvi upada u oči. Glavni elementi su jedno lice i jednostavan tekst. Izbjegavaj metafore, rubove i sjene oko lika (statistika kaže da snižavaju CTR), te zamućenja koja daju kontekst. Primjer: kanal Meadow DeVor — pregledi su se udesetostručili prelaskom na jednostavne thumbnaile."
+        },
+        {
+          "key": "kontrast",
+          "desc": "Kontrast: razlika između pozadine i teksta mora biti velika radi maksimalne čitljivosti i uočljivosti. Najveći mogući kontrast je crno-bijeli. Jedini izuzetak je crvena pozadina. Tekst tako lakše 'iskače' i privlači oko u feedu."
+        },
+        {
+          "key": "curiosity_gap",
+          "desc": "Jaz radoznalosti (curiosity gap) — najbitniji element: probudi neodoljivu radoznalost da ciljna publika mora otkriti šta se krije u videu. Presudno je da video ispuni obećanje iz thumbnaila i da gledaoci ostanu do kraja. Nikad ne obećavaj jedno a isporuči drugo (algoritam to kažnjava)."
+        },
+        {
+          "key": "lice_emocija",
+          "desc": "Lice + emocija: ubaci sliku svog lica koje facijalnom ekspresijom pojačava emociju iz headlinea (npr. neodlučnost, pokazivanje prstom na zamućeni predmet). Koristi kvalitetne slike (10-ak, razne emocije/poze/uglovi, dobro osvjetljenje, čak i mobitelom po danu). NIKAD otvorena usta (snižava CTR), nikad screenshotove iz videa."
+        },
+        {
+          "key": "abc_test",
+          "desc": "A/B/C test: koristi nativnu YouTube Studio A/B/C test funkciju za thumbnaile i naslove pri objavi. Oprez — ne testiraj 3 potpuno različita thumbnaila, nego mijenjaj samo JEDAN element. YouTube javlja koji je pobjednik i njega postaviš kao glavni. Za male kanale test traje i do 14 dana; iz rezultata brzo učiš šta radi za tvoj kanal."
+        },
+        {
+          "key": "headline_4_rijeci",
+          "desc": "Headline (tekst na thumbnailu): maksimalno 4 riječi — što kraće, to bolje. Mora buditi radoznalost i biti konkretan, vezan za temu (npr. 'početničke greške' umjesto općenitog teksta). AI prompt: traži po jedan headline od najviše 4 riječi za svaku temu, koji otvara curiosity gap i nije općenit."
+        }
+      ]
+    }
+  },
+  "monetization_models": [
+    {
+      "key": "pregledi",
+      "name": "Zarada od pregleda (AdSense / YouTube reklame)",
+      "desc": "Prihod od reklama koje YouTube prikazuje na videu, u prosjeku oko 1000 EUR po milionu pregleda. Iznos zavisi od teme (kakve reklame se serviraju), dužine videa i udjela Premium gledalaca. Tipično za muzičke spotove, dječiji sadržaj, podcaste i faceless informativne kanale.",
+      "pros": [
+        "Pasivno — ne moraš ništa prodavati",
+        "Skalira sa pregledima ako ih ima mnogo",
+        "Dodatni dio prihoda od YouTube Premium pretplatnika",
+        "Automatski, ne zahtijeva izradu proizvoda"
+      ],
+      "cons": [
+        "Najgori/najslabiji model — samo ~1000 EUR po milionu pregleda",
+        "Traži ogroman broj pretplatnika ili viralni moment (sve teže)",
+        "Skupa i spora izrada videa sa milionskim pregledima",
+        "Konstantan pritisak da svaki novi video ponovi uspjeh -> pregaranje (čak i kanali sa 1M+ pretplatnika znaju biti beskućnici)"
+      ],
+      "best_for": "Muzičari, dječiji sadržaj, podcasti i faceless informativni kanali koji prirodno skupljaju milione pregleda."
+    },
+    {
+      "key": "affiliate",
+      "name": "Affiliate marketing (partnerska provizija)",
+      "desc": "YouTuber preporučuje proizvode preko specijalnog linka, QR koda ili kupona i zarađuje proviziju za svaku prodaju, u prosjeku 3-5% (oko 4%). Često na tehničkim i modnim kanalima koji otpakuju i testiraju uređaje ili kozmetiku.",
+      "pros": [
+        "Dodatni prihod uz zaradu od pregleda",
+        "Ne zahtijeva vlastiti proizvod",
+        "Jednostavno za pokrenuti (link/kupon/QR)",
+        "Individualizirani kupon kodovi olakšavaju praćenje prodaja"
+      ],
+      "cons": [
+        "Provizije su male (~3-5%) i nestabilne",
+        "Što je video stariji, proizvodi zastarijevaju i zarada pada",
+        "Praćenje je tehnički komplikovano i često nepouzdano",
+        "Nepredvidiv prihod"
+      ],
+      "best_for": "Tehnički i modni/lifestyle kanali sa unboxing i recenzijama proizvoda koje publika može odmah kupiti."
+    },
+    {
+      "key": "sponzorstva",
+      "name": "Sponzorstva (integrisane reklame)",
+      "desc": "Sponzor (npr. VPN servis) plaća da YouTuber ugradi reklamu direktno u video. Cijena zavisi od prosječnog broja pregleda po videu — VPN servisi nerijetko plate 5.000 do 30.000 EUR po ugrađenoj reklami. Video mora biti označen kao sponzorski.",
+      "pros": [
+        "Pouzdaniji i mnogo bolji od affiliate-a i pregleda",
+        "Velike pojedinačne sume (5-30k EUR po reklami)",
+        "Sponzori se često sami jave",
+        "Postoje agencije/platforme koje povezuju sa sponzorima; YouTube 2026 program za umetanje najnovijih reklama bez ponovnog rezanja"
+      ],
+      "cons": [
+        "Mnogi nikad ne dobiju ponudu sponzora",
+        "Strah hoće li sponzor produžiti ugovor (zavisi od isplativosti)",
+        "Publika se nervira i preskače reklame; oznaka 'sponzorski' može negativno uticati na algoritam",
+        "Publika s vremenom postaje otporna na ponovljenu reklamu -> sponzori odustaju"
+      ],
+      "best_for": "Gejmerski, zabavni i podcast kanali sa velikom i širokom publikom (pogotovo sa jakom Twitch publikom)."
+    },
+    {
+      "key": "clanstvo",
+      "name": "Članstvo / pretplata (YouTube, Patreon, Skool)",
+      "desc": "Kreiranje zajednice gdje članovi za mjesečnu pretplatu dobijaju ekskluzivan sadržaj, raniji pristup, posebne emoji-je, super thanks donacije itd. Na YouTube-u, ili na platformama poput Patreona i Skool-a (Skool posebno za edukacijske kanale).",
+      "pros": [
+        "Najbolji od 'osnovnih' modela zarade (uz savjetovanje/proizvode)",
+        "Predvidiv, ponavljajući mjesečni prihod (sigurnost)",
+        "Skool pretplate su dosta veće nego Patreon",
+        "Gradi lojalnu zajednicu i veću povezanost s publikom"
+      ],
+      "cons": [
+        "YouTube uzima u prosjeku pola zarade od članstava",
+        "Sve više korisnika izbjegava pretplate",
+        "Zahtijeva stalan ekskluzivan sadržaj da članovi ostanu",
+        "Vođenje zajednice oduzima vrijeme"
+      ],
+      "best_for": "Kanali s vjernom zajednicom i, posebno, edukacijski kanali (Skool) koji nude trajnu edukaciju i podršku."
+    },
+    {
+      "key": "merch",
+      "name": "Merch (fizički proizvodi s brendom)",
+      "desc": "Prodaja majica, kačketa, šolja i sl. s logom kanala ili internom šalom koju razumiju samo fanovi. Pravi fanovi kupuju da podrže omiljenog YouTubera; YouTuber često zaradi više od 60% prodajne cijene.",
+      "pros": [
+        "Visoka marža — često 60%+ prodajne cijene",
+        "Win-win: fan dobije proizvod koji želi, kreator zaradi",
+        "Ne zahtijeva ogromnu publiku ako su fanovi lojalni",
+        "Jača povezanost i identitet zajednice"
+      ],
+      "cons": [
+        "Procentualno mali udio fanova zaista kupi",
+        "Nepredvidiv prihod",
+        "Problem ako publika nema kreditnu karticu (npr. mlađi gledaoci)",
+        "Logistika izrade i isporuke fizičkih proizvoda"
+      ],
+      "best_for": "Kanali s jakom, povezanom bazom pravih fanova koji žele podržati kreatora (entertainment, lični brend)."
+    },
+    {
+      "key": "crowdfunding",
+      "name": "Crowdfunding (Kickstarter i sl.)",
+      "desc": "Publika finansira proizvod (npr. društvenu igru) ili opremu (kamp kućica, kamera) preko platformi poput Kickstartera. Ako se skupi ciljani iznos, donatori dobiju primjerak proizvoda ili direktno utiču na sadržaj videa.",
+      "pros": [
+        "Finansira proizvod/opremu unaprijed, prije izrade",
+        "Publika se osjeća uključeno i utiče na sadržaj",
+        "Validira ideju prije ulaganja",
+        "Može stvoriti uzbuđenje oko projekta"
+      ],
+      "cons": [
+        "Kampanje često ne uspiju",
+        "Publici se možda ne sviđa proizvod koji bi dobili",
+        "Publici se možda ne sviđa ideja da kreator snima koristeći taj proizvod",
+        "Jednokratno, nije stabilan ponavljajući prihod"
+      ],
+      "best_for": "Kreatori s konkretnom idejom proizvoda (igra, oprema) i angažovanom publikom voljnom da je finansira unaprijed."
+    },
+    {
+      "key": "savjetovanje",
+      "name": "Savjetovanje / konsultacije (coaching)",
+      "desc": "Edukacijski kanal nudi grupno ili 1-na-1 savjetovanje — gledalac bukira termin i dobije korisne savjete ili pomoć u rješavanju problema. Cijene 20, 50, 100, 500 EUR ili više po satu; što je vještina korisnija, to viša cijena. Naplata unaprijed.",
+      "pros": [
+        "Mnogo jače od pregleda/affiliate/merch/crowdfunding",
+        "Ne traži brdo pregleda ni pretplatnika",
+        "Visoka cijena po satu (do 500 EUR+), naplata unaprijed",
+        "Publika kroz kanal već vjeruje u stručnost kreatora"
+      ],
+      "cons": [
+        "Nije skalabilno — dan ima samo 24 sata",
+        "Grupno savjetovanje ublažava ali ne uklanja ograničenje vremena",
+        "Prihod ograničen brojem termina",
+        "Zahtijeva stalnu ličnu uključenost kreatora"
+      ],
+      "best_for": "Edukacijski kanali sa specifičnom vještinom (jezici, instrumenti, marketing) gdje publika želi ličnu podršku."
+    },
+    {
+      "key": "digitalni_proizvod",
+      "name": "Digitalni proizvodi (PDF, ček-liste, šabloni)",
+      "desc": "Zapakovano znanje kreatora u digitalni proizvod: uputstvo, zbirka recepata, ček-lista — bilo šta u PDF formatu. Niska cijena (najčešće ispod 50 EUR), ali skoro cijeli iznos ostaje kreatoru. Za izradu treba samo vrijeme i predznanje.",
+      "pros": [
+        "Visoka marža — skoro cijeli iznos ostaje kreatoru",
+        "Skalabilno, beskonačno umnožavanje bez dodatnog troška",
+        "Često ne zastarijeva — stari video i dalje donosi prodaje",
+        "Jeftina izrada (samo vrijeme i znanje), ne treba velika publika"
+      ],
+      "cons": [
+        "Niska pojedinačna cijena (najčešće <50 EUR)",
+        "Zahtijeva da je proizvod izuzetno kvalitetan i koristan",
+        "Treba vještina pakovanja znanja u koristan format",
+        "Manja zarada po jedinici nego kursevi"
+      ],
+      "best_for": "Edukacijski kanali i stručnjaci koji imaju znanje koje se može sažeti u PDF/ček-listu/šablon."
+    },
+    {
+      "key": "kursevi",
+      "name": "Onlajn kursevi (NAJBOLJI MODEL)",
+      "desc": "Napredna verzija digitalnog proizvoda — kurs iz oblasti koju kreator poznaje (instrument, digitalni marketing, dejting, programiranje, knjigovodstvo...). Najbolji model zarade od YouTube-a. U prosjeku sa 10.000 pregleda edukacijski kanal proda 200 kurseva (konverzija 2%); najjeftiniji kurs 100 EUR -> minimalno 20.000 EUR sa 10.000 pregleda. Autor je sa nešto preko 10.000 pretplatnika zaradio preko 600.000 EUR za 3 godine.",
+      "pros": [
+        "NAJBOLJI model — najveća i skalabilna zarada",
+        "Ne traži brdo pregleda ni pretplatnika (200 kurseva na 10.000 pregleda)",
+        "Visoke cijene: 100, 200, 500 pa i par hiljada EUR",
+        "Svaki video, bez obzira na starost, donosi prodaje svaki mjesec; YouTube besplatno 'prodaje' kurseve dok drugi plaćaju oglase"
+      ],
+      "cons": [
+        "Zahtijeva stvarnu stručnost i izgrađeno povjerenje kroz videe",
+        "Izrada kvalitetnog kursa traži vrijeme i trud",
+        "Moraš znati KAKO prodavati kroz YouTube",
+        "Veći početni rad od običnog PDF-a"
+      ],
+      "best_for": "Edukacijski kanali — kreatori koji znaju nešto što publika želi naučiti i koji su kroz videe dokazali stručnost (preporučeni primarni model)."
+    }
+  ],
+  "rules": {
+    "title_max_chars_mobile": 50,
+    "title_max_chars_desktop": 70,
+    "headline_max_words": 4,
+    "views_eur_per_million": 1000,
+    "course_conv_rate": 0.02,
+    "affiliate_rate": 0.04,
+    "merch_margin_rate": 0.6,
+    "digital_product_price_max_eur": 50,
+    "course_min_price_eur": 100,
+    "courses_per_10k_views": 200,
+    "min_course_revenue_per_10k_views_eur": 20000,
+    "abc_test_max_days_small_channel": 14,
+    "youtube_membership_cut_rate": 0.5,
+    "sponsor_vpn_price_min_eur": 5000,
+    "sponsor_vpn_price_max_eur": 30000
+  }
+}
